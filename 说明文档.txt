@@ -1,0 +1,2 @@
+train.py文件用于训练bert模型，读取data.csv文件，产出chatgpt-bert
+predict.py文件用于通过训练好的模型去预测我们自己的文本，读取test3.csv,chatgpt-bert,产出per_test3.xlsx,predict_lable为预测列
